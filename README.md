@@ -1,4 +1,16 @@
-## TO BEGIN: "Fork" and "Clone" this repo into your machine. Then go through the exercises outlined below. When you finish your exercises, submit your homework by making a "Pull Request" to the github repository you originally forked from. 
+## TO BEGIN: 
+
+"Fork" this repo by clicking the "Fork" button on the upper right and selecting the repo you want to fork to. Then go to your newly forked repo and click the green "Code" button to open up a dropdown list, and use the "clipboard icon" to copy the URL displayed. Then go to your command line program and navigate to a folder you wish to keep your homework assignments in. Enter the following: ```git clone <paste the URL you copied>```. This will clone the forked repo into your machine. 
+
+Then you can go through the exercises below. When you finish, you will then submit your homework following these instructions: 
+
+Navigate to the folder that was created when you ran the above ```git clone <paste the URL you copied>```
+
+Run  ```git push origin main```
+
+Go to the browser tab where you made a forked repository. Refresh the page to see that your changes were pushed up to github.com. 
+
+Click "Pull Requests" in the upper left, and on the next screen click the green button "New pull request"
 
 <img src="https://i.imgur.com/YmNE2R2.png">
 
